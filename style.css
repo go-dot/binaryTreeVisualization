@@ -28,7 +28,8 @@ canvas {
 
 #outer
 {
-    border : 1px solid transparent;
+    padding: 3px;
+    border: 5px ridge rgba(107,107,107,0.9);
     background-color: grey;
     width:100%;
     text-align: center;
