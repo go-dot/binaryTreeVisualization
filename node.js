@@ -4,7 +4,7 @@ class Node {
         this.value = value;
         this.left = null;
         this.right = null;
-        this.diameter = 35;
+        this.diameter = 32;
         this.lineLengthX = width / 5;
         this.lineLengthY = 40;
     }
